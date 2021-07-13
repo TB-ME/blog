@@ -1,3 +1,3 @@
 # BLOG
 
-This is a repository for my personal blog
+This is a repository which links to all blog posts
