@@ -1,3 +1,4 @@
 [submodule "post--rl-introduction"]
 	path = post--rl-introduction
 	url = https://github.com/TB-ME/post--rl-introduction
+	branch = main
